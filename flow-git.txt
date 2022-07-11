@@ -1,0 +1,4 @@
+git init : ...
+git remote set-url origin <url_git>: 
+git checkout -b <name_brand>:
+git add . : 
