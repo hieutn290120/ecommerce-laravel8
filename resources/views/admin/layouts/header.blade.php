@@ -72,13 +72,13 @@
                     <!-- ============================================================== -->
                     <ul class="navbar-nav float-right">
 
-                        <!-- @if(session('success'))
+                        @if(session('success'))
                             <div class="alert alert-success alert-dismissible">
                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">x</button>
                                <h4><i class="icon fa fa-check"></i>Thong bao!</h4>
                                {{session('success')}} 
                             </div>
-                        @endif -->
+                        @endif
 
 
                         

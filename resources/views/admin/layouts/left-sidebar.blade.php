@@ -28,6 +28,18 @@
                                 <span class="hide-menu">Blog</span>
                             </a>
                         </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/admin/category" aria-expanded="false">
+                                <i class="mdi-airplay"></i>
+                                <span class="hide-menu">Category</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/admin/brand" aria-expanded="false">
+                                <i class="mdi-xing"></i>
+                                <span class="hide-menu">Brand</span>
+                            </a>
+                        </li>
                          <li class="sidebar-item">
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="form-basic.html" aria-expanded="false">
                                 <i class="mdi mdi-arrange-bring-forward"></i>
